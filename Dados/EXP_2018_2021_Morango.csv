@@ -1,0 +1,899 @@
+﻿Ano;Mês;Países;"Bloco Econômico";"Código NCM";"Descrição NCM";"Valor FOB (US$)";"Quilograma Líquido";"Quantidade Estatística"
+2021;05;Panamá;"América Central e Caribe";08101000;"Morangos frescos";657;436;432
+2021;02;Libéria;África;08101000;"Morangos frescos";512;59;58
+2021;07;Panamá;"América Central e Caribe";08101000;"Morangos frescos";468;471;468
+2021;05;Libéria;África;08101000;"Morangos frescos";445;83;77
+2021;06;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";350;71;71
+2021;04;Panamá;"América Central e Caribe";08101000;"Morangos frescos";308;323;323
+2021;07;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";306;76;55
+2021;06;Noruega;Europa;08101000;"Morangos frescos";305;49;49
+2021;03;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";271;89;78
+2021;03;Libéria;África;08101000;"Morangos frescos";267;62;62
+2021;02;Portugal;"União Europeia - UE";08101000;"Morangos frescos";263;392;392
+2021;02;Portugal;Europa;08101000;"Morangos frescos";263;392;392
+2021;06;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";251;38;38
+2021;06;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";251;38;38
+2021;07;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";249;66;66
+2021;02;Panamá;"América Central e Caribe";08101000;"Morangos frescos";226;245;247
+2021;06;Panamá;"América Central e Caribe";08101000;"Morangos frescos";226;47;40
+2021;03;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";204;35;35
+2021;03;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";204;35;35
+2021;06;Dinamarca;Europa;08101000;"Morangos frescos";204;34;35
+2021;06;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";204;34;35
+2021;03;Panamá;"América Central e Caribe";08101000;"Morangos frescos";193;240;240
+2021;01;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";185;40;40
+2021;07;Libéria;África;08101000;"Morangos frescos";184;43;43
+2021;03;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";173;32;31
+2021;03;Dinamarca;Europa;08101000;"Morangos frescos";173;32;31
+2021;06;Libéria;África;08101000;"Morangos frescos";171;32;32
+2021;06;Malta;Europa;08101000;"Morangos frescos";170;27;26
+2021;06;Malta;"União Europeia - UE";08101000;"Morangos frescos";170;27;26
+2021;07;Malta;"União Europeia - UE";08101000;"Morangos frescos";164;29;29
+2021;07;Malta;Europa;08101000;"Morangos frescos";164;29;29
+2021;02;Noruega;Europa;08101000;"Morangos frescos";162;38;38
+2021;06;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";157;36;36
+2021;01;Panamá;"América Central e Caribe";08101000;"Morangos frescos";154;50;50
+2021;01;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";153;31;31
+2021;01;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";153;31;31
+2021;01;Guiana;"América do Sul";08101000;"Morangos frescos";153;20;20
+2021;01;Noruega;Europa;08101000;"Morangos frescos";151;23;24
+2021;05;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";149;80;80
+2021;07;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";149;30;30
+2021;07;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";149;30;30
+2021;02;Guiana;"América do Sul";08101000;"Morangos frescos";147;20;20
+2021;04;Libéria;África;08101000;"Morangos frescos";145;42;44
+2021;04;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";145;27;27
+2021;04;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";145;27;27
+2021;07;Noruega;Europa;08101000;"Morangos frescos";145;23;23
+2021;02;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";143;23;23
+2021;02;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";143;23;23
+2021;03;Guiana;"América do Sul";08101000;"Morangos frescos";142;20;20
+2021;05;Noruega;Europa;08101000;"Morangos frescos";137;24;25
+2021;04;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";135;28;28
+2021;07;Guiana;"América do Sul";08101000;"Morangos frescos";131;15;15
+2021;03;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";130;38;36
+2021;07;Portugal;Europa;08101000;"Morangos frescos";126;145;144
+2021;07;Portugal;"União Europeia - UE";08101000;"Morangos frescos";126;145;144
+2021;04;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";124;16;14
+2021;04;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";124;16;14
+2021;05;Turquia;Europa;08101000;"Morangos frescos";122;20;20
+2021;05;Grécia;Europa;08101000;"Morangos frescos";120;24;24
+2021;05;Grécia;"União Europeia - UE";08101000;"Morangos frescos";120;24;24
+2021;01;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";120;22;22
+2021;06;Grécia;Europa;08101000;"Morangos frescos";119;27;27
+2021;06;Grécia;"União Europeia - UE";08101000;"Morangos frescos";119;27;27
+2021;01;Grécia;"União Europeia - UE";08101000;"Morangos frescos";109;20;20
+2021;01;Grécia;Europa;08101000;"Morangos frescos";109;20;20
+2021;01;Dinamarca;Europa;08101000;"Morangos frescos";109;16;18
+2021;01;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";109;16;18
+2021;05;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";108;13;17
+2021;05;Dinamarca;Europa;08101000;"Morangos frescos";108;13;17
+2021;05;"Reino Unido";Europa;08101000;"Morangos frescos";104;20;20
+2021;06;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";101;21;21
+2021;05;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";99;20;20
+2021;05;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";99;20;20
+2021;07;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";98;35;28
+2021;07;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";98;35;28
+2021;03;Noruega;Europa;08101000;"Morangos frescos";96;20;20
+2021;02;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";94;18;18
+2021;02;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";94;18;18
+2021;01;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";92;17;18
+2021;01;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";92;17;18
+2021;04;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";90;37;37
+2021;03;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";89;18;18
+2021;03;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";89;18;18
+2021;05;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";87;35;17
+2021;06;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";87;15;15
+2021;07;Polônia;Europa;08101000;"Morangos frescos";86;20;20
+2021;07;Polônia;"União Europeia - UE";08101000;"Morangos frescos";86;20;20
+2021;03;Grécia;"União Europeia - UE";08101000;"Morangos frescos";86;19;19
+2021;03;Grécia;Europa;08101000;"Morangos frescos";86;19;19
+2021;05;Guiana;"América do Sul";08101000;"Morangos frescos";85;10;10
+2021;03;Malta;Europa;08101000;"Morangos frescos";83;24;23
+2021;03;Malta;"União Europeia - UE";08101000;"Morangos frescos";83;24;23
+2021;06;Chipre;"União Europeia - UE";08101000;"Morangos frescos";82;12;12
+2021;06;Chipre;Europa;08101000;"Morangos frescos";82;12;12
+2021;04;Grécia;Europa;08101000;"Morangos frescos";81;26;26
+2021;04;Grécia;"União Europeia - UE";08101000;"Morangos frescos";81;26;26
+2021;04;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";80;17;17
+2021;04;Malta;Europa;08101000;"Morangos frescos";80;15;15
+2021;04;Malta;"União Europeia - UE";08101000;"Morangos frescos";80;15;15
+2021;01;"Reino Unido";Europa;08101000;"Morangos frescos";79;1;10
+2021;05;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";76;20;20
+2021;05;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";76;20;20
+2021;04;Dinamarca;Europa;08101000;"Morangos frescos";76;11;11
+2021;04;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";76;11;11
+2021;02;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";75;13;13
+2021;02;Dinamarca;Europa;08101000;"Morangos frescos";75;13;13
+2021;01;Libéria;África;08101000;"Morangos frescos";74;14;14
+2021;05;Malta;Europa;08101000;"Morangos frescos";72;17;17
+2021;05;Malta;"União Europeia - UE";08101000;"Morangos frescos";72;17;17
+2021;06;Guiana;"América do Sul";08101000;"Morangos frescos";71;8;8
+2021;07;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";68;9;10
+2021;07;Dinamarca;Europa;08101000;"Morangos frescos";68;9;10
+2021;06;Alemanha;Europa;08101000;"Morangos frescos";64;10;10
+2021;06;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";64;10;10
+2021;07;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";63;26;26
+2021;05;Portugal;"União Europeia - UE";08101000;"Morangos frescos";62;93;93
+2021;05;Portugal;Europa;08101000;"Morangos frescos";62;93;93
+2021;02;Chipre;Europa;08101000;"Morangos frescos";60;10;10
+2021;02;Chipre;"União Europeia - UE";08101000;"Morangos frescos";60;10;10
+2021;02;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";57;14;14
+2021;03;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";57;10;10
+2021;01;França;Europa;08101000;"Morangos frescos";54;5;5
+2021;01;França;"União Europeia - UE";08101000;"Morangos frescos";54;5;5
+2021;01;Malta;"União Europeia - UE";08101000;"Morangos frescos";53;19;14
+2021;01;Malta;Europa;08101000;"Morangos frescos";53;19;14
+2021;03;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";53;10;10
+2021;05;Mauritânia;África;08101000;"Morangos frescos";52;8;8
+2021;07;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";49;10;10
+2021;04;"Reino Unido";Europa;08101000;"Morangos frescos";47;13;13
+2021;07;Suíça;Europa;08101000;"Morangos frescos";46;10;10
+2021;05;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";45;18;18
+2021;07;Grécia;"União Europeia - UE";08101000;"Morangos frescos";45;7;7
+2021;07;Grécia;Europa;08101000;"Morangos frescos";45;7;7
+2021;03;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";44;16;16
+2021;02;Malta;Europa;08101000;"Morangos frescos";43;8;7
+2021;02;Malta;"União Europeia - UE";08101000;"Morangos frescos";43;8;7
+2021;06;Portugal;Europa;08101000;"Morangos frescos";41;16;16
+2021;06;Portugal;"União Europeia - UE";08101000;"Morangos frescos";41;16;16
+2021;07;Turquia;Europa;08101000;"Morangos frescos";41;8;8
+2021;01;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";38;10;10
+2021;05;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";37;5;5
+2021;05;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";37;5;5
+2021;07;Chipre;Europa;08101000;"Morangos frescos";36;5;5
+2021;07;Chipre;"União Europeia - UE";08101000;"Morangos frescos";36;5;5
+2021;07;Alemanha;Europa;08101000;"Morangos frescos";35;5;5
+2021;02;Chile;"América do Sul";08101000;"Morangos frescos";35;5;5
+2021;07;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";35;5;5
+2021;04;Guiana;"América do Sul";08101000;"Morangos frescos";35;5;5
+2021;05;Chipre;"União Europeia - UE";08101000;"Morangos frescos";32;11;11
+2021;05;Chipre;Europa;08101000;"Morangos frescos";32;11;11
+2021;01;Chipre;Europa;08101000;"Morangos frescos";32;5;5
+2021;05;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";32;5;5
+2021;01;Chipre;"União Europeia - UE";08101000;"Morangos frescos";32;5;5
+2021;06;"Antígua e Barbuda";"América Central e Caribe";08101000;"Morangos frescos";31;5;5
+2021;05;Polônia;"União Europeia - UE";08101000;"Morangos frescos";31;5;5
+2021;05;Polônia;Europa;08101000;"Morangos frescos";31;5;5
+2021;02;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";30;10;10
+2021;06;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";30;6;6
+2021;06;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";30;6;6
+2021;02;"Reino Unido";Europa;08101000;"Morangos frescos";30;5;5
+2021;05;Alemanha;Europa;08101000;"Morangos frescos";29;5;5
+2021;05;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";29;5;5
+2021;05;Paraguai;"América do Sul";08101000;"Morangos frescos";28;30;30
+2021;05;Paraguai;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";28;30;30
+2021;07;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";27;5;5
+2021;04;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";25;8;8
+2021;01;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";25;5;5
+2021;02;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";23;3;3
+2021;02;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";23;3;3
+2021;04;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";22;2;2
+2021;01;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";21;6;6
+2021;07;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";19;3;3
+2021;04;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";18;8;8
+2021;06;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";18;2;2
+2021;06;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";18;2;2
+2021;03;Chipre;Europa;08101000;"Morangos frescos";16;4;4
+2021;03;Chipre;"União Europeia - UE";08101000;"Morangos frescos";16;4;4
+2021;05;"Antígua e Barbuda";"América Central e Caribe";08101000;"Morangos frescos";16;2;2
+2021;05;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";15;8;8
+2021;04;Chipre;Europa;08101000;"Morangos frescos";14;10;10
+2021;04;Chipre;"União Europeia - UE";08101000;"Morangos frescos";14;10;10
+2021;01;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";14;8;10
+2021;03;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";11;5;5
+2021;06;"São Vicente e Granadinas";"América Central e Caribe";08101000;"Morangos frescos";9;1;1
+2021;04;Noruega;Europa;08101000;"Morangos frescos";8;3;3
+2021;06;"Reino Unido";Europa;08101000;"Morangos frescos";8;2;2
+2021;02;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";8;2;2
+2021;07;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";7;2;2
+2021;07;Chile;"América do Sul";08101000;"Morangos frescos";7;1;1
+2021;01;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";6;3;3
+2021;03;"São Vicente e Granadinas";"América Central e Caribe";08101000;"Morangos frescos";5;1;1
+2021;05;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";4;2;2
+2020;02;Panamá;"América Central e Caribe";08101000;"Morangos frescos";12045;12149;12147
+2020;01;Panamá;"América Central e Caribe";08101000;"Morangos frescos";10193;10245;10246
+2020;03;Panamá;"América Central e Caribe";08101000;"Morangos frescos";9228;9257;9246
+2020;03;Argentina;"América do Sul";08101000;"Morangos frescos";6321;1250;1250
+2020;03;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";6321;1250;1250
+2020;04;Panamá;"América Central e Caribe";08101000;"Morangos frescos";5635;5824;5824
+2020;01;Argentina;"América do Sul";08101000;"Morangos frescos";4808;862;862
+2020;01;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";4808;862;862
+2020;02;Argentina;"América do Sul";08101000;"Morangos frescos";3875;660;660
+2020;02;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";3875;660;660
+2020;04;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";3776;613;613
+2020;04;Argentina;"América do Sul";08101000;"Morangos frescos";3776;613;613
+2020;10;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";2459;235;235
+2020;10;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";2459;235;235
+2020;02;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";2054;455;455
+2020;03;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";2054;208;208
+2020;03;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";2054;208;208
+2020;05;Panamá;"América Central e Caribe";08101000;"Morangos frescos";1441;1121;1121
+2020;01;Portugal;"União Europeia - UE";08101000;"Morangos frescos";974;1240;1240
+2020;01;Portugal;Europa;08101000;"Morangos frescos";974;1240;1240
+2020;03;Portugal;Europa;08101000;"Morangos frescos";806;873;873
+2020;03;Portugal;"União Europeia - UE";08101000;"Morangos frescos";806;873;873
+2020;03;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";570;113;113
+2020;02;Portugal;Europa;08101000;"Morangos frescos";486;711;711
+2020;02;Portugal;"União Europeia - UE";08101000;"Morangos frescos";486;711;711
+2020;01;Libéria;África;08101000;"Morangos frescos";399;76;75
+2020;05;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";362;70;70
+2020;01;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";350;72;72
+2020;12;Panamá;"América Central e Caribe";08101000;"Morangos frescos";349;111;100
+2020;07;Libéria;África;08101000;"Morangos frescos";346;64;62
+2020;04;Portugal;"União Europeia - UE";08101000;"Morangos frescos";331;318;318
+2020;04;Portugal;Europa;08101000;"Morangos frescos";331;318;318
+2020;10;Libéria;África;08101000;"Morangos frescos";328;76;75
+2020;08;Panamá;"América Central e Caribe";08101000;"Morangos frescos";327;123;105
+2020;07;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";327;72;69
+2020;12;Malta;Europa;08101000;"Morangos frescos";325;45;45
+2020;12;Malta;"União Europeia - UE";08101000;"Morangos frescos";325;45;45
+2020;02;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";322;48;48
+2020;10;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";308;59;61
+2020;10;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";308;59;61
+2020;07;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";282;110;50
+2020;07;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";282;110;50
+2020;05;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";280;58;58
+2020;05;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";280;58;58
+2020;10;Panamá;"América Central e Caribe";08101000;"Morangos frescos";274;61;56
+2020;01;Noruega;Europa;08101000;"Morangos frescos";274;36;41
+2020;09;Panamá;"América Central e Caribe";08101000;"Morangos frescos";272;86;73
+2020;08;Noruega;Europa;08101000;"Morangos frescos";272;74;73
+2020;03;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";271;43;49
+2020;12;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";270;61;61
+2020;12;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";270;61;61
+2020;11;Panamá;"América Central e Caribe";08101000;"Morangos frescos";270;56;55
+2020;09;Libéria;África;08101000;"Morangos frescos";266;56;56
+2020;06;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";262;70;70
+2020;02;Libéria;África;08101000;"Morangos frescos";259;50;44
+2020;05;Noruega;Europa;08101000;"Morangos frescos";256;45;45
+2020;12;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";247;59;48
+2020;12;Dinamarca;Europa;08101000;"Morangos frescos";247;59;48
+2020;10;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";244;51;52
+2020;05;Libéria;África;08101000;"Morangos frescos";244;51;51
+2020;09;Malta;Europa;08101000;"Morangos frescos";240;37;40
+2020;09;Malta;"União Europeia - UE";08101000;"Morangos frescos";240;37;40
+2020;08;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";238;43;40
+2020;08;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";238;43;40
+2020;07;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";234;38;38
+2020;06;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";230;33;34
+2020;04;Libéria;África;08101000;"Morangos frescos";220;52;52
+2020;03;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";220;25;27
+2020;03;Libéria;África;08101000;"Morangos frescos";216;40;39
+2020;08;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";211;70;54
+2020;12;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";210;41;41
+2020;06;Panamá;"América Central e Caribe";08101000;"Morangos frescos";203;50;45
+2020;06;Grécia;Europa;08101000;"Morangos frescos";202;60;60
+2020;06;Grécia;"União Europeia - UE";08101000;"Morangos frescos";202;60;60
+2020;04;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";196;37;37
+2020;07;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";195;36;36
+2020;08;Libéria;África;08101000;"Morangos frescos";188;44;44
+2020;04;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";188;37;37
+2020;04;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";188;37;37
+2020;12;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";187;59;49
+2020;06;Libéria;África;08101000;"Morangos frescos";184;41;38
+2020;01;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";182;21;23
+2020;01;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";182;21;23
+2020;12;Noruega;Europa;08101000;"Morangos frescos";181;43;43
+2020;07;Panamá;"América Central e Caribe";08101000;"Morangos frescos";177;46;40
+2020;10;Noruega;Europa;08101000;"Morangos frescos";177;37;35
+2020;08;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";172;29;29
+2020;11;Libéria;África;08101000;"Morangos frescos";169;37;37
+2020;09;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";162;56;57
+2020;12;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";158;32;32
+2020;12;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";158;32;32
+2020;10;Grécia;"União Europeia - UE";08101000;"Morangos frescos";155;28;28
+2020;10;Grécia;Europa;08101000;"Morangos frescos";155;28;28
+2020;04;Noruega;Europa;08101000;"Morangos frescos";154;27;31
+2020;03;Guiana;"América do Sul";08101000;"Morangos frescos";152;25;25
+2020;06;Noruega;Europa;08101000;"Morangos frescos";151;38;38
+2020;06;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";148;28;28
+2020;06;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";148;28;28
+2020;05;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";146;33;34
+2020;08;Grécia;Europa;08101000;"Morangos frescos";137;44;44
+2020;08;Grécia;"União Europeia - UE";08101000;"Morangos frescos";137;44;44
+2020;12;Guiana;"América do Sul";08101000;"Morangos frescos";137;18;18
+2020;09;Noruega;Europa;08101000;"Morangos frescos";135;29;29
+2020;07;Dinamarca;Europa;08101000;"Morangos frescos";134;20;22
+2020;07;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";134;20;22
+2020;11;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";129;20;20
+2020;12;Grécia;Europa;08101000;"Morangos frescos";127;29;29
+2020;12;Grécia;"União Europeia - UE";08101000;"Morangos frescos";127;29;29
+2020;11;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";126;20;26
+2020;11;Dinamarca;Europa;08101000;"Morangos frescos";126;20;26
+2020;02;Grécia;Europa;08101000;"Morangos frescos";123;10;80
+2020;02;Grécia;"União Europeia - UE";08101000;"Morangos frescos";123;10;80
+2020;07;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";119;24;24
+2020;07;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";119;24;24
+2020;02;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";117;25;25
+2020;09;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";117;24;29
+2020;09;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";117;24;29
+2020;01;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";117;23;23
+2020;01;Dinamarca;Europa;08101000;"Morangos frescos";117;23;23
+2020;11;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";116;29;29
+2020;11;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";116;29;29
+2020;05;Grécia;Europa;08101000;"Morangos frescos";115;25;25
+2020;05;Grécia;"União Europeia - UE";08101000;"Morangos frescos";115;25;25
+2020;01;Malta;Europa;08101000;"Morangos frescos";112;24;24
+2020;01;Malta;"União Europeia - UE";08101000;"Morangos frescos";112;24;24
+2020;09;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";112;21;21
+2020;09;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";112;21;21
+2020;06;Malta;"União Europeia - UE";08101000;"Morangos frescos";111;23;23
+2020;06;Malta;Europa;08101000;"Morangos frescos";111;23;23
+2020;11;Chipre;Europa;08101000;"Morangos frescos";111;22;22
+2020;11;Chipre;"União Europeia - UE";08101000;"Morangos frescos";111;22;22
+2020;01;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";110;22;24
+2020;04;"Emirados Árabes Unidos";"Oriente Médio";08101000;"Morangos frescos";109;25;25
+2020;11;"Reino Unido";Europa;08101000;"Morangos frescos";108;23;23
+2020;10;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";107;20;20
+2020;10;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";107;20;20
+2020;06;Dinamarca;Europa;08101000;"Morangos frescos";107;18;18
+2020;06;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";107;18;18
+2020;11;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";106;20;20
+2020;11;Alemanha;Europa;08101000;"Morangos frescos";106;20;20
+2020;07;Noruega;Europa;08101000;"Morangos frescos";106;15;17
+2020;11;Guiana;"América do Sul";08101000;"Morangos frescos";105;14;14
+2020;12;Libéria;África;08101000;"Morangos frescos";104;21;21
+2020;05;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";104;15;15
+2020;05;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";104;15;15
+2020;02;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";103;18;18
+2020;02;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";103;18;18
+2020;07;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";103;15;15
+2020;11;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";101;30;30
+2020;10;Dinamarca;Europa;08101000;"Morangos frescos";98;20;20
+2020;10;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";98;20;20
+2020;06;"Reino Unido";Europa;08101000;"Morangos frescos";96;15;15
+2020;02;Dinamarca;Europa;08101000;"Morangos frescos";93;32;26
+2020;02;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";93;32;26
+2020;06;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";91;26;23
+2020;06;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";91;26;23
+2020;02;Noruega;Europa;08101000;"Morangos frescos";91;18;20
+2020;11;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";87;19;19
+2020;10;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";85;21;21
+2020;01;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";85;13;15
+2020;09;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";84;27;27
+2020;11;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";84;17;17
+2020;11;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";84;17;17
+2020;07;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";84;13;13
+2020;02;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";83;14;12
+2020;05;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";82;20;20
+2020;05;Dinamarca;Europa;08101000;"Morangos frescos";82;20;20
+2020;03;"Reino Unido";Europa;08101000;"Morangos frescos";82;15;15
+2020;11;Noruega;Europa;08101000;"Morangos frescos";80;17;17
+2020;02;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";80;16;16
+2020;02;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";80;16;16
+2020;05;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";80;10;10
+2020;10;Malásia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";78;15;15
+2020;10;Malásia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";78;15;15
+2020;01;"Reino Unido";Europa;08101000;"Morangos frescos";77;15;15
+2020;09;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";77;13;13
+2020;05;Barein;"Oriente Médio";08101000;"Morangos frescos";77;9;10
+2020;03;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";76;20;25
+2020;10;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";76;10;10
+2020;11;Malta;Europa;08101000;"Morangos frescos";74;13;14
+2020;11;Malta;"União Europeia - UE";08101000;"Morangos frescos";74;13;14
+2020;09;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";72;11;11
+2020;09;Dinamarca;Europa;08101000;"Morangos frescos";72;11;11
+2020;10;Turquia;Europa;08101000;"Morangos frescos";71;10;10
+2020;08;Malta;Europa;08101000;"Morangos frescos";70;36;36
+2020;08;Malta;"União Europeia - UE";08101000;"Morangos frescos";70;36;36
+2020;05;Chipre;"União Europeia - UE";08101000;"Morangos frescos";68;10;10
+2020;05;Chipre;Europa;08101000;"Morangos frescos";68;10;10
+2020;09;Grécia;Europa;08101000;"Morangos frescos";66;19;19
+2020;09;Grécia;"União Europeia - UE";08101000;"Morangos frescos";66;19;19
+2020;11;"Ilha de Man";"União Europeia - UE";08101000;"Morangos frescos";66;15;15
+2020;11;"Ilha de Man";Europa;08101000;"Morangos frescos";66;15;15
+2020;09;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";65;11;10
+2020;07;Portugal;"União Europeia - UE";08101000;"Morangos frescos";63;11;9
+2020;07;Portugal;Europa;08101000;"Morangos frescos";63;11;9
+2020;04;Grécia;Europa;08101000;"Morangos frescos";62;20;20
+2020;04;Grécia;"União Europeia - UE";08101000;"Morangos frescos";62;20;20
+2020;05;Malásia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";62;8;8
+2020;05;Malásia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";62;8;8
+2020;04;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";60;12;12
+2020;01;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";59;12;12
+2020;01;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";59;12;12
+2020;09;Guiana;"América do Sul";08101000;"Morangos frescos";59;8;8
+2020;08;Chipre;Europa;08101000;"Morangos frescos";57;15;15
+2020;08;Chipre;"União Europeia - UE";08101000;"Morangos frescos";57;15;15
+2020;10;Guiana;"América do Sul";08101000;"Morangos frescos";57;8;8
+2020;12;Chipre;"União Europeia - UE";08101000;"Morangos frescos";54;20;20
+2020;12;Chipre;Europa;08101000;"Morangos frescos";54;20;20
+2020;04;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";53;7;7
+2020;06;Chipre;"União Europeia - UE";08101000;"Morangos frescos";52;7;7
+2020;06;Chipre;Europa;08101000;"Morangos frescos";52;7;7
+2020;02;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";51;5;5
+2020;12;"Cayman, Ilhas";"América Central e Caribe";08101000;"Morangos frescos";50;10;10
+2020;08;"Reino Unido";Europa;08101000;"Morangos frescos";49;10;10
+2020;04;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";49;6;6
+2020;04;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";49;6;6
+2020;11;Grécia;"União Europeia - UE";08101000;"Morangos frescos";48;11;11
+2020;11;Grécia;Europa;08101000;"Morangos frescos";48;11;11
+2020;02;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";48;8;8
+2020;02;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";48;8;8
+2020;03;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";47;21;21
+2020;03;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";47;21;21
+2020;08;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";47;13;13
+2020;04;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";47;10;10
+2020;04;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";47;10;10
+2020;12;Argentina;"América do Sul";08101000;"Morangos frescos";46;9;9
+2020;12;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";46;9;9
+2020;10;Chile;"América do Sul";08101000;"Morangos frescos";45;8;7
+2020;06;Bélgica;Europa;08101000;"Morangos frescos";45;5;5
+2020;06;Bélgica;"União Europeia - UE";08101000;"Morangos frescos";45;5;5
+2020;07;Malta;Europa;08101000;"Morangos frescos";43;9;9
+2020;07;Malta;"União Europeia - UE";08101000;"Morangos frescos";43;9;9
+2020;07;"Reino Unido";Europa;08101000;"Morangos frescos";40;10;10
+2020;12;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";40;10;10
+2020;03;Malta;Europa;08101000;"Morangos frescos";39;14;10
+2020;03;Malta;"União Europeia - UE";08101000;"Morangos frescos";39;14;10
+2020;06;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";39;5;5
+2020;05;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";39;5;5
+2020;06;Alemanha;Europa;08101000;"Morangos frescos";39;5;5
+2020;10;Chipre;"União Europeia - UE";08101000;"Morangos frescos";39;5;2
+2020;10;Chipre;Europa;08101000;"Morangos frescos";39;5;2
+2020;05;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";38;12;12
+2020;05;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";38;12;12
+2020;07;Chipre;Europa;08101000;"Morangos frescos";38;5;5
+2020;07;Chipre;"União Europeia - UE";08101000;"Morangos frescos";38;5;5
+2020;12;"Reino Unido";Europa;08101000;"Morangos frescos";37;10;10
+2020;03;França;"União Europeia - UE";08101000;"Morangos frescos";37;3;3
+2020;03;França;Europa;08101000;"Morangos frescos";37;3;3
+2020;03;Noruega;Europa;08101000;"Morangos frescos";35;8;8
+2020;11;Malásia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";35;5;5
+2020;11;Malásia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";35;5;5
+2020;10;Malta;Europa;08101000;"Morangos frescos";34;12;12
+2020;10;Malta;"União Europeia - UE";08101000;"Morangos frescos";34;12;12
+2020;12;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";34;8;8
+2020;12;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";34;8;8
+2020;12;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";34;5;5
+2020;12;Alemanha;Europa;08101000;"Morangos frescos";34;5;5
+2020;08;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";34;4;5
+2020;08;Dinamarca;Europa;08101000;"Morangos frescos";33;24;24
+2020;08;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";33;24;24
+2020;06;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";33;10;10
+2020;05;Omã;"Oriente Médio";08101000;"Morangos frescos";31;31;5
+2020;07;Grécia;"União Europeia - UE";08101000;"Morangos frescos";31;10;10
+2020;07;Grécia;Europa;08101000;"Morangos frescos";31;10;10
+2020;08;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";31;8;8
+2020;08;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";30;6;6
+2020;08;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";30;6;6
+2020;02;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";30;5;5
+2020;02;Alemanha;Europa;08101000;"Morangos frescos";30;5;5
+2020;08;Guiana;"América do Sul";08101000;"Morangos frescos";30;4;4
+2020;03;Grécia;"União Europeia - UE";08101000;"Morangos frescos";29;9;9
+2020;03;Grécia;Europa;08101000;"Morangos frescos";29;9;9
+2020;01;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";29;5;5
+2020;10;"Ilha de Man";"União Europeia - UE";08101000;"Morangos frescos";28;6;6
+2020;10;"Ilha de Man";Europa;08101000;"Morangos frescos";28;6;6
+2020;01;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";26;4;4
+2020;01;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";26;4;4
+2020;07;Gibraltar;Europa;08101000;"Morangos frescos";25;5;5
+2020;12;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";24;10;10
+2020;09;Gibraltar;Europa;08101000;"Morangos frescos";24;3;3
+2020;12;Bélgica;Europa;08101000;"Morangos frescos";23;5;5
+2020;09;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";23;5;5
+2020;09;Alemanha;Europa;08101000;"Morangos frescos";23;5;5
+2020;12;Bélgica;"União Europeia - UE";08101000;"Morangos frescos";23;5;5
+2020;02;Malta;"União Europeia - UE";08101000;"Morangos frescos";21;6;6
+2020;02;Malta;Europa;08101000;"Morangos frescos";21;6;6
+2020;03;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";21;5;5
+2020;01;Turquia;Europa;08101000;"Morangos frescos";21;5;5
+2020;04;Dinamarca;Europa;08101000;"Morangos frescos";21;3;3
+2020;04;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";21;3;3
+2020;01;Chipre;Europa;08101000;"Morangos frescos";20;5;5
+2020;01;Chipre;"União Europeia - UE";08101000;"Morangos frescos";20;5;5
+2020;10;"Reino Unido";Europa;08101000;"Morangos frescos";19;5;5
+2020;04;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";19;4;4
+2020;10;Suíça;Europa;08101000;"Morangos frescos";19;3;3
+2020;06;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";18;8;8
+2020;03;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";17;3;3
+2020;03;Alemanha;Europa;08101000;"Morangos frescos";17;3;3
+2020;09;Chipre;"União Europeia - UE";08101000;"Morangos frescos";16;3;3
+2020;09;Chipre;Europa;08101000;"Morangos frescos";16;3;3
+2020;06;Guiana;"América do Sul";08101000;"Morangos frescos";16;2;2
+2020;11;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";15;3;3
+2020;04;Guiana;"América do Sul";08101000;"Morangos frescos";15;2;2
+2020;08;França;Europa;08101000;"Morangos frescos";14;10;10
+2020;08;França;"União Europeia - UE";08101000;"Morangos frescos";14;10;10
+2020;04;"Reino Unido";Europa;08101000;"Morangos frescos";14;3;3
+2020;04;Bélgica;Europa;08101000;"Morangos frescos";14;2;2
+2020;04;Bélgica;"União Europeia - UE";08101000;"Morangos frescos";14;2;2
+2020;09;"Reino Unido";Europa;08101000;"Morangos frescos";13;4;4
+2020;12;Barbados;"América Central e Caribe";08101000;"Morangos frescos";13;3;3
+2020;12;Suíça;Europa;08101000;"Morangos frescos";12;5;5
+2020;04;Malta;Europa;08101000;"Morangos frescos";11;10;10
+2020;04;Malta;"União Europeia - UE";08101000;"Morangos frescos";11;10;10
+2020;08;Filipinas;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";11;2;2
+2020;08;Filipinas;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";11;2;2
+2020;10;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";10;1;1
+2020;03;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";9;7;5
+2020;05;"Reino Unido";Europa;08101000;"Morangos frescos";9;5;5
+2020;12;Portugal;"União Europeia - UE";08101000;"Morangos frescos";8;12;12
+2020;12;Portugal;Europa;08101000;"Morangos frescos";8;12;12
+2020;02;Irã;"Oriente Médio";08101000;"Morangos frescos";7;5;5
+2020;05;Malta;Europa;08101000;"Morangos frescos";7;3;1
+2020;05;Malta;"União Europeia - UE";08101000;"Morangos frescos";7;3;1
+2020;06;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";7;2;2
+2020;04;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";6;5;5
+2020;09;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";6;1;1
+2020;05;"Cayman, Ilhas";"América Central e Caribe";08101000;"Morangos frescos";5;5;5
+2020;09;"Taiwan (Formosa)";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";2;1;1
+2020;08;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";2;1;1
+2020;08;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";2;1;1
+2019;02;Panamá;"América Central e Caribe";08101000;"Morangos frescos";31049;25152;25152
+2019;04;Panamá;"América Central e Caribe";08101000;"Morangos frescos";22142;16379;16378
+2019;09;Panamá;"América Central e Caribe";08101000;"Morangos frescos";21262;18188;18185
+2019;08;Panamá;"América Central e Caribe";08101000;"Morangos frescos";17563;13888;13888
+2019;06;Panamá;"América Central e Caribe";08101000;"Morangos frescos";17071;13562;12707
+2019;05;Panamá;"América Central e Caribe";08101000;"Morangos frescos";16263;12005;12005
+2019;07;Panamá;"América Central e Caribe";08101000;"Morangos frescos";15105;13138;13136
+2019;10;Panamá;"América Central e Caribe";08101000;"Morangos frescos";10992;11456;11456
+2019;12;Panamá;"América Central e Caribe";08101000;"Morangos frescos";10727;10680;10679
+2019;11;Panamá;"América Central e Caribe";08101000;"Morangos frescos";10451;10700;10700
+2019;03;Panamá;"América Central e Caribe";08101000;"Morangos frescos";4607;5059;5060
+2019;12;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";3992;811;816
+2019;02;Argentina;"América do Sul";08101000;"Morangos frescos";3397;620;620
+2019;02;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";3397;620;620
+2019;01;Argentina;"América do Sul";08101000;"Morangos frescos";2639;410;410
+2019;01;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";2639;410;410
+2019;12;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";2607;470;470
+2019;12;Argentina;"América do Sul";08101000;"Morangos frescos";2607;470;470
+2019;03;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";2462;440;440
+2019;03;Argentina;"América do Sul";08101000;"Morangos frescos";2462;440;440
+2019;02;Portugal;Europa;08101000;"Morangos frescos";1575;1662;1662
+2019;02;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1575;1662;1662
+2019;08;Portugal;Europa;08101000;"Morangos frescos";1318;1162;1162
+2019;08;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1318;1162;1162
+2019;12;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1292;1160;1160
+2019;12;Portugal;Europa;08101000;"Morangos frescos";1292;1160;1160
+2019;07;Portugal;Europa;08101000;"Morangos frescos";1245;1017;1018
+2019;07;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1245;1017;1018
+2019;01;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";1244;990;990
+2019;03;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1232;947;947
+2019;03;Portugal;Europa;08101000;"Morangos frescos";1232;947;947
+2019;09;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1202;1127;1127
+2019;09;Portugal;Europa;08101000;"Morangos frescos";1202;1127;1127
+2019;11;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1129;985;985
+2019;11;Portugal;Europa;08101000;"Morangos frescos";1129;985;985
+2019;05;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";1089;1740;1740
+2019;10;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1086;1223;1223
+2019;10;Portugal;Europa;08101000;"Morangos frescos";1086;1223;1223
+2019;06;Portugal;Europa;08101000;"Morangos frescos";1003;1023;1023
+2019;06;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1003;1023;1023
+2019;04;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";993;170;170
+2019;04;Argentina;"América do Sul";08101000;"Morangos frescos";993;170;170
+2019;04;Portugal;"União Europeia - UE";08101000;"Morangos frescos";902;784;784
+2019;04;Portugal;Europa;08101000;"Morangos frescos";902;784;784
+2019;05;Portugal;"União Europeia - UE";08101000;"Morangos frescos";889;869;870
+2019;05;Portugal;Europa;08101000;"Morangos frescos";889;869;870
+2019;02;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";775;182;182
+2019;05;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";660;60;60
+2019;04;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";591;92;89
+2019;10;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";480;77;79
+2019;05;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";456;84;84
+2019;05;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";456;84;84
+2019;11;Alemanha;Europa;08101000;"Morangos frescos";454;80;80
+2019;11;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";454;80;80
+2019;10;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";395;65;71
+2019;10;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";395;65;71
+2019;09;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";349;50;58
+2019;09;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";349;50;58
+2019;07;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";337;57;53
+2019;01;Panamá;"América Central e Caribe";08101000;"Morangos frescos";332;74;80
+2019;05;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";322;69;69
+2019;05;Libéria;África;08101000;"Morangos frescos";321;53;54
+2019;09;Libéria;África;08101000;"Morangos frescos";289;43;43
+2019;11;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";279;70;70
+2019;05;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";271;30;30
+2019;08;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";251;38;38
+2019;08;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";251;38;38
+2019;11;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";246;44;47
+2019;11;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";246;44;47
+2019;03;Libéria;África;08101000;"Morangos frescos";246;42;40
+2019;07;Libéria;África;08101000;"Morangos frescos";241;39;38
+2019;07;Noruega;Europa;08101000;"Morangos frescos";229;28;37
+2019;01;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";225;46;35
+2019;01;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";225;46;35
+2019;07;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";217;59;59
+2019;11;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";213;22;32
+2019;10;Malta;"União Europeia - UE";08101000;"Morangos frescos";209;30;29
+2019;10;Malta;Europa;08101000;"Morangos frescos";209;30;29
+2019;01;Libéria;África;08101000;"Morangos frescos";199;43;40
+2019;08;Libéria;África;08101000;"Morangos frescos";197;33;34
+2019;03;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";196;46;44
+2019;03;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";191;152;152
+2019;09;Noruega;Europa;08101000;"Morangos frescos";188;30;30
+2019;10;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";187;35;35
+2019;03;França;"União Europeia - UE";08101000;"Morangos frescos";187;10;10
+2019;03;França;Europa;08101000;"Morangos frescos";187;10;10
+2019;07;Malta;"União Europeia - UE";08101000;"Morangos frescos";183;28;28
+2019;07;Malta;Europa;08101000;"Morangos frescos";183;28;28
+2019;06;Grécia;Europa;08101000;"Morangos frescos";179;23;23
+2019;06;Grécia;"União Europeia - UE";08101000;"Morangos frescos";179;23;23
+2019;01;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";174;49;45
+2019;10;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";169;34;34
+2019;10;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";169;34;34
+2019;10;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";169;20;20
+2019;10;Argentina;"América do Sul";08101000;"Morangos frescos";169;20;20
+2019;04;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";168;25;25
+2019;12;Malta;Europa;08101000;"Morangos frescos";160;30;30
+2019;12;Malta;"União Europeia - UE";08101000;"Morangos frescos";160;30;30
+2019;12;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";159;30;30
+2019;01;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";151;36;36
+2019;11;Dinamarca;Europa;08101000;"Morangos frescos";147;17;22
+2019;11;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";147;17;22
+2019;11;Libéria;África;08101000;"Morangos frescos";146;23;23
+2019;10;Noruega;Europa;08101000;"Morangos frescos";145;31;33
+2019;12;Libéria;África;08101000;"Morangos frescos";138;20;23
+2019;08;Noruega;Europa;08101000;"Morangos frescos";135;22;22
+2019;12;França;"União Europeia - UE";08101000;"Morangos frescos";134;15;15
+2019;12;França;Europa;08101000;"Morangos frescos";134;15;15
+2019;08;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";133;31;33
+2019;02;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";127;21;21
+2019;02;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";127;21;21
+2019;06;Barein;"Oriente Médio";08101000;"Morangos frescos";124;14;16
+2019;09;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";123;39;37
+2019;03;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";120;28;28
+2019;10;Chipre;"União Europeia - UE";08101000;"Morangos frescos";120;22;22
+2019;10;Chipre;Europa;08101000;"Morangos frescos";120;22;22
+2019;06;Libéria;África;08101000;"Morangos frescos";117;14;16
+2019;04;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";116;19;18
+2019;06;"Reino Unido";Europa;08101000;"Morangos frescos";116;11;11
+2019;03;Dinamarca;Europa;08101000;"Morangos frescos";107;18;18
+2019;03;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";107;18;18
+2019;12;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";106;16;17
+2019;10;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";105;17;17
+2019;05;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";99;24;24
+2019;10;Dinamarca;Europa;08101000;"Morangos frescos";99;16;16
+2019;10;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";99;16;16
+2019;01;Noruega;Europa;08101000;"Morangos frescos";94;22;24
+2019;12;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";93;9;14
+2019;12;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";93;9;14
+2019;03;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";92;11;12
+2019;03;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";92;11;12
+2019;12;"Reino Unido";Europa;08101000;"Morangos frescos";91;12;12
+2019;08;Irã;"Oriente Médio";08101000;"Morangos frescos";89;24;24
+2019;07;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";88;18;18
+2019;07;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";88;18;18
+2019;05;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";86;8;8
+2019;09;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";85;11;11
+2019;02;Barbados;"América Central e Caribe";08101000;"Morangos frescos";84;16;16
+2019;05;Chipre;"União Europeia - UE";08101000;"Morangos frescos";84;8;8
+2019;05;Chipre;Europa;08101000;"Morangos frescos";84;8;8
+2019;10;Bélgica;"União Europeia - UE";08101000;"Morangos frescos";81;15;15
+2019;10;Bélgica;Europa;08101000;"Morangos frescos";81;15;15
+2019;10;Omã;"Oriente Médio";08101000;"Morangos frescos";81;8;8
+2019;09;Malta;"União Europeia - UE";08101000;"Morangos frescos";79;20;20
+2019;09;Malta;Europa;08101000;"Morangos frescos";79;20;20
+2019;11;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";79;16;16
+2019;11;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";79;16;16
+2019;09;Bélgica;Europa;08101000;"Morangos frescos";73;10;10
+2019;09;Bélgica;"União Europeia - UE";08101000;"Morangos frescos";73;10;10
+2019;04;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";73;10;10
+2019;03;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";70;15;15
+2019;01;Grécia;"União Europeia - UE";08101000;"Morangos frescos";70;13;10
+2019;01;Grécia;Europa;08101000;"Morangos frescos";70;13;10
+2019;07;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";70;10;10
+2019;07;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";70;10;10
+2019;07;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";69;84;27
+2019;05;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";69;14;14
+2019;05;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";69;14;14
+2019;08;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";69;8;8
+2019;06;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";68;8;8
+2019;06;Alemanha;Europa;08101000;"Morangos frescos";68;8;8
+2019;08;"Sri Lanka";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";67;10;10
+2019;02;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";67;10;10
+2019;02;Alemanha;Europa;08101000;"Morangos frescos";67;10;10
+2019;02;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";66;29;30
+2019;06;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";66;20;20
+2019;03;Chile;"América do Sul";08101000;"Morangos frescos";66;10;10
+2019;10;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";66;8;8
+2019;05;Noruega;Europa;08101000;"Morangos frescos";66;7;10
+2019;07;"Reino Unido";Europa;08101000;"Morangos frescos";65;4;4
+2019;09;Argentina;"América do Sul";08101000;"Morangos frescos";64;10;10
+2019;02;Grécia;Europa;08101000;"Morangos frescos";64;10;10
+2019;02;Grécia;"União Europeia - UE";08101000;"Morangos frescos";64;10;10
+2019;09;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";64;10;10
+2019;08;"Reino Unido";Europa;08101000;"Morangos frescos";63;10;10
+2019;04;Noruega;Europa;08101000;"Morangos frescos";62;11;11
+2019;12;Noruega;Europa;08101000;"Morangos frescos";62;4;10
+2019;09;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";61;10;10
+2019;09;Dinamarca;Europa;08101000;"Morangos frescos";61;10;10
+2019;10;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";60;15;15
+2019;02;Libéria;África;08101000;"Morangos frescos";60;15;15
+2019;10;Alemanha;Europa;08101000;"Morangos frescos";60;15;15
+2019;08;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";60;12;12
+2019;08;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";60;12;12
+2019;12;Chile;"América do Sul";08101000;"Morangos frescos";60;5;10
+2019;04;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";59;11;11
+2019;04;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";59;11;11
+2019;08;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";59;10;10
+2019;01;Malta;Europa;08101000;"Morangos frescos";56;15;16
+2019;01;Malta;"União Europeia - UE";08101000;"Morangos frescos";56;15;16
+2019;10;Libéria;África;08101000;"Morangos frescos";54;18;17
+2019;02;Filipinas;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";54;10;10
+2019;02;Filipinas;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";54;10;10
+2019;12;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";51;13;13
+2019;06;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";50;10;10
+2019;06;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";50;10;10
+2019;01;Dinamarca;Europa;08101000;"Morangos frescos";50;5;5
+2019;01;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";50;5;5
+2019;11;"Reino Unido";Europa;08101000;"Morangos frescos";49;5;5
+2019;12;Chipre;"União Europeia - UE";08101000;"Morangos frescos";48;5;5
+2019;12;Chipre;Europa;08101000;"Morangos frescos";48;5;5
+2019;08;Gibraltar;Europa;08101000;"Morangos frescos";46;36;20
+2019;06;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";46;14;14
+2019;03;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";45;10;10
+2019;02;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";45;10;4
+2019;06;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";44;14;14
+2019;08;Malta;Europa;08101000;"Morangos frescos";44;12;12
+2019;08;Malta;"União Europeia - UE";08101000;"Morangos frescos";44;12;12
+2019;12;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";42;7;7
+2019;12;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";42;7;7
+2019;11;Irã;"Oriente Médio";08101000;"Morangos frescos";41;14;14
+2019;03;Malta;"União Europeia - UE";08101000;"Morangos frescos";41;10;10
+2019;03;Malta;Europa;08101000;"Morangos frescos";41;10;10
+2019;04;"Reino Unido";Europa;08101000;"Morangos frescos";40;19;10
+2019;04;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";40;6;6
+2019;04;Dinamarca;Europa;08101000;"Morangos frescos";40;6;6
+2019;03;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";39;8;8
+2019;03;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";39;8;8
+2019;03;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";36;20;20
+2019;12;Dinamarca;Europa;08101000;"Morangos frescos";36;5;5
+2019;12;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";36;5;5
+2019;11;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";36;4;4
+2019;11;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";36;4;4
+2019;04;Libéria;África;08101000;"Morangos frescos";35;13;7
+2019;10;"Reino Unido";Europa;08101000;"Morangos frescos";35;10;10
+2019;11;Noruega;Europa;08101000;"Morangos frescos";35;7;7
+2019;05;Grécia;Europa;08101000;"Morangos frescos";35;5;5
+2019;05;Grécia;"União Europeia - UE";08101000;"Morangos frescos";35;5;5
+2019;12;Grécia;Europa;08101000;"Morangos frescos";34;10;10
+2019;12;Grécia;"União Europeia - UE";08101000;"Morangos frescos";34;10;10
+2019;11;Barein;"Oriente Médio";08101000;"Morangos frescos";34;3;5
+2019;07;Barein;"Oriente Médio";08101000;"Morangos frescos";34;2;5
+2019;03;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";33;6;6
+2019;03;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";33;6;6
+2019;06;Irã;"Oriente Médio";08101000;"Morangos frescos";32;10;10
+2019;09;Alemanha;Europa;08101000;"Morangos frescos";32;5;5
+2019;01;Turquia;Europa;08101000;"Morangos frescos";32;5;5
+2019;09;Turquia;Europa;08101000;"Morangos frescos";32;5;5
+2019;09;Alemanha;"União Europeia - UE";08101000;"Morangos frescos";32;5;5
+2019;09;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";31;10;10
+2019;08;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";31;5;5
+2019;09;Chipre;Europa;08101000;"Morangos frescos";31;3;3
+2019;09;Chipre;"União Europeia - UE";08101000;"Morangos frescos";31;3;3
+2019;06;Malta;"União Europeia - UE";08101000;"Morangos frescos";30;8;8
+2019;06;Malta;Europa;08101000;"Morangos frescos";30;8;8
+2019;09;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";30;6;6
+2019;09;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";30;6;6
+2019;02;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";30;6;6
+2019;02;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";30;6;6
+2019;06;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";29;7;7
+2019;06;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";29;7;7
+2019;02;"Reino Unido";Europa;08101000;"Morangos frescos";29;5;5
+2019;03;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";29;5;5
+2019;09;"Cayman, Ilhas";"América Central e Caribe";08101000;"Morangos frescos";29;2;4
+2019;08;Barein;"Oriente Médio";08101000;"Morangos frescos";29;2;4
+2019;07;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";28;5;5
+2019;01;Filipinas;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";27;5;5
+2019;01;Filipinas;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";27;5;5
+2019;03;Noruega;Europa;08101000;"Morangos frescos";26;5;5
+2019;01;Suíça;Europa;08101000;"Morangos frescos";25;5;5
+2019;12;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";25;5;5
+2019;12;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";25;5;5
+2019;06;Noruega;Europa;08101000;"Morangos frescos";24;5;5
+2019;10;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";24;4;4
+2019;10;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";24;4;4
+2019;04;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";23;5;5
+2019;02;"Arábia Saudita";"Oriente Médio";08101000;"Morangos frescos";23;5;5
+2019;04;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";23;5;5
+2019;08;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";23;5;5
+2019;05;Barein;"Oriente Médio";08101000;"Morangos frescos";22;3;3
+2019;05;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";21;5;5
+2019;10;Turquia;Europa;08101000;"Morangos frescos";20;5;5
+2019;02;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";20;5;5
+2019;08;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";20;5;5
+2019;02;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";20;5;5
+2019;01;"Reino Unido";Europa;08101000;"Morangos frescos";19;5;5
+2019;10;"Ilha de Man";Europa;08101000;"Morangos frescos";16;3;3
+2019;10;"Ilha de Man";"União Europeia - UE";08101000;"Morangos frescos";16;3;3
+2019;02;Noruega;Europa;08101000;"Morangos frescos";15;10;10
+2019;09;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";15;2;2
+2019;09;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";15;2;2
+2019;07;Grécia;"União Europeia - UE";08101000;"Morangos frescos";15;2;2
+2019;07;Grécia;Europa;08101000;"Morangos frescos";15;2;2
+2019;01;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";14;6;4
+2019;06;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";14;4;4
+2019;05;Malta;"União Europeia - UE";08101000;"Morangos frescos";14;3;3
+2019;05;Malta;Europa;08101000;"Morangos frescos";14;3;3
+2019;08;Chipre;"União Europeia - UE";08101000;"Morangos frescos";14;3;3
+2019;08;Chipre;Europa;08101000;"Morangos frescos";14;3;3
+2019;05;"Países Baixos (Holanda)";Europa;08101000;"Morangos frescos";14;2;2
+2019;05;"Países Baixos (Holanda)";"União Europeia - UE";08101000;"Morangos frescos";14;2;2
+2019;11;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";13;4;4
+2019;06;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";13;3;3
+2019;06;Dinamarca;Europa;08101000;"Morangos frescos";13;2;2
+2019;06;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";13;2;2
+2019;10;"Coreia do Sul";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";12;4;4
+2019;08;Bermudas;"América Central e Caribe";08101000;"Morangos frescos";12;2;2
+2019;11;Grécia;Europa;08101000;"Morangos frescos";11;10;10
+2019;11;Grécia;"União Europeia - UE";08101000;"Morangos frescos";11;10;10
+2019;12;Filipinas;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";11;3;3
+2019;01;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";11;3;3
+2019;12;Filipinas;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";11;3;3
+2019;09;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";9;6;5
+2019;02;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";9;5;5
+2019;04;Chipre;Europa;08101000;"Morangos frescos";9;2;2
+2019;04;Chipre;"União Europeia - UE";08101000;"Morangos frescos";9;2;2
+2019;01;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";8;5;5
+2019;02;Malta;Europa;08101000;"Morangos frescos";6;2;2
+2019;02;Malta;"União Europeia - UE";08101000;"Morangos frescos";6;2;2
+2019;09;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";4;6;6
+2019;11;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";4;2;2
+2018;09;Panamá;"América Central e Caribe";08101000;"Morangos frescos";39729;36486;36486
+2018;12;Panamá;"América Central e Caribe";08101000;"Morangos frescos";9992;7757;7761
+2018;11;Panamá;"América Central e Caribe";08101000;"Morangos frescos";9850;7561;7561
+2018;10;Panamá;"América Central e Caribe";08101000;"Morangos frescos";6467;6276;6276
+2018;09;Portugal;Europa;08101000;"Morangos frescos";3151;2826;2826
+2018;09;Portugal;"União Europeia - UE";08101000;"Morangos frescos";3151;2826;2826
+2018;12;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";2091;167;149
+2018;11;Portugal;"União Europeia - UE";08101000;"Morangos frescos";1745;1336;1336
+2018;11;Portugal;Europa;08101000;"Morangos frescos";1745;1336;1336
+2018;11;"Estados Unidos";"América do Norte";08101000;"Morangos frescos";1612;400;400
+2018;12;Argentina;"Mercado Comum do Sul - Mercosul";08101000;"Morangos frescos";1272;220;220
+2018;12;Argentina;"América do Sul";08101000;"Morangos frescos";1272;220;220
+2018;10;Portugal;"União Europeia - UE";08101000;"Morangos frescos";917;1021;1021
+2018;10;Portugal;Europa;08101000;"Morangos frescos";917;1021;1021
+2018;12;Portugal;Europa;08101000;"Morangos frescos";750;671;671
+2018;12;Portugal;"União Europeia - UE";08101000;"Morangos frescos";750;671;671
+2018;12;França;"União Europeia - UE";08101000;"Morangos frescos";348;20;20
+2018;12;França;Europa;08101000;"Morangos frescos";348;20;20
+2018;12;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";277;60;49
+2018;10;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";269;156;156
+2018;11;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";227;38;41
+2018;11;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";227;38;41
+2018;12;Suíça;Europa;08101000;"Morangos frescos";170;29;29
+2018;11;"Reino Unido";Europa;08101000;"Morangos frescos";158;16;19
+2018;12;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";145;48;19
+2018;12;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";145;48;19
+2018;12;Grécia;Europa;08101000;"Morangos frescos";141;25;25
+2018;12;Grécia;"União Europeia - UE";08101000;"Morangos frescos";141;25;25
+2018;12;Noruega;Europa;08101000;"Morangos frescos";131;22;22
+2018;12;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";122;19;20
+2018;12;Tailândia;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";92;17;17
+2018;12;Tailândia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";92;17;17
+2018;10;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";87;16;19
+2018;10;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";84;20;20
+2018;10;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";84;20;20
+2018;11;Noruega;Europa;08101000;"Morangos frescos";79;15;15
+2018;11;China;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";77;7;7
+2018;11;Libéria;África;08101000;"Morangos frescos";69;17;17
+2018;11;Turquia;Europa;08101000;"Morangos frescos";61;10;10
+2018;11;"Marshall, Ilhas";Oceania;08101000;"Morangos frescos";54;20;20
+2018;10;Índia;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";53;5;5
+2018;10;Itália;"União Europeia - UE";08101000;"Morangos frescos";48;10;10
+2018;10;Itália;Europa;08101000;"Morangos frescos";48;10;10
+2018;11;Malta;"União Europeia - UE";08101000;"Morangos frescos";39;48;8
+2018;11;Malta;Europa;08101000;"Morangos frescos";39;48;8
+2018;10;Libéria;África;08101000;"Morangos frescos";38;10;10
+2018;09;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";38;5;5
+2018;09;Dinamarca;Europa;08101000;"Morangos frescos";38;5;5
+2018;12;Japão;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";33;5;5
+2018;12;Dinamarca;Europa;08101000;"Morangos frescos";27;5;5
+2018;12;Dinamarca;"União Europeia - UE";08101000;"Morangos frescos";27;5;5
+2018;11;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";24;5;5
+2018;09;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";22;3;3
+2018;09;Singapura;"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";20;5;5
+2018;09;Singapura;"Associação de Nações do Sudeste Asiático - ASEAN";08101000;"Morangos frescos";20;5;5
+2018;08;"Reino Unido";Europa;08101000;"Morangos frescos";18;5;5
+2018;11;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";17;3;3
+2018;12;Malta;Europa;08101000;"Morangos frescos";12;3;3
+2018;12;Malta;"União Europeia - UE";08101000;"Morangos frescos";12;3;3
+2018;10;Chile;"América do Sul";08101000;"Morangos frescos";10;5;5
+2018;08;Panamá;"América Central e Caribe";08101000;"Morangos frescos";10;3;3
+2018;10;"Hong Kong";"Ásia (Exclusive Oriente Médio)";08101000;"Morangos frescos";10;3;3
+2018;12;Bahamas;"América Central e Caribe";08101000;"Morangos frescos";4;17;1
+2018;12;Chipre;"União Europeia - UE";08101000;"Morangos frescos";2;1;1
+2018;12;Chipre;Europa;08101000;"Morangos frescos";2;1;1
